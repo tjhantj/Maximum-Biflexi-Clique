@@ -1,11 +1,11 @@
-#The Maximum Biflexi Clique
-##Source code info
+# The Maximum Biflexi Clique
+## Source code info
 Programming Language: Python 3.12
 
-##Dataset
+## Dataset
 All datasets are obtained from [KONECT](http://konect.cc/networks/) website.
 
-##Usage
+## Usage
 Each line of the input .txt file consists of two node IDs separated by a single whitespace, representing an edge in the bipartite graph. The left node belongs to the U-side, and the right node belongs to the V-side.
 
 If the U-side and V-side node sets both start from 1 (i.e., there is potential overlap between node IDs), use the read_bipartite_edgelist function by specifying --filltype 1.
