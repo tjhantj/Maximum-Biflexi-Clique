@@ -1,4 +1,5 @@
 # The Maximum Biflexi Clique
+This repository propose the maximum biflexi clique algorithm in the following paper submitted in CIKM 2025
 ## Source code info
 Programming Language: Python 3.12
 
